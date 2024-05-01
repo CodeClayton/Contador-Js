@@ -23,6 +23,8 @@ h1{
       font-size: 2.3rem;
       color: white;
       margin-bottom: 10px;
+      text-align: center;
+
 }
 
 .container{
@@ -103,4 +105,17 @@ h1{
 
 .resetCounter:hover .bi-arrow-counterclockwise{
       transform: rotate(360deg);
+}
+
+
+@media (max-width: 500px){
+      h1{
+            font-size: 1.8rem;
+      }
+}
+
+@media (max-width: 310px){
+      h1{
+            font-size: 1.5rem;
+      }
 }
