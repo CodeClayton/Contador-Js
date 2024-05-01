@@ -10,8 +10,8 @@ Um simples contador de cliques desenvolvido em HTML, CSS e JavaScript.
 
 ## 🖼️ Pré-visualização
 
-![Preview](https://caminho/para/sua/imagem/preview.png)
+![Preview](src/img/preview.png)
 
 ## Veja em Ação
 
-[Clique aqui para ver o contador em ação](https://example.com)
+[Clique aqui para ver o contador em ação](https://codeclayton.github.io/Contador-Js/)
